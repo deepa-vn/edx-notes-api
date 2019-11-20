@@ -19,7 +19,7 @@ edx-drf-extensions==2.0.0
 edx-opaque-keys==2.0.1    # via edx-drf-extensions
 elasticsearch==1.9.0
 future==0.18.2            # via pyjwkest
-gunicorn==19.1.1
+gunicorn==19.5.0
 itypes==1.1.0             # via coreapi
 jinja2==2.10.3            # via coreschema
 markupsafe==1.1.1         # via jinja2
